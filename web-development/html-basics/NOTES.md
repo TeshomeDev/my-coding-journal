@@ -61,3 +61,23 @@
     Headings make pages easier for humans to scan and understand quickly.
 
 
+  - **Note:** *Headings should **not** be used for styling; for visual size only CSS is used.* 
+
+  **Example:**  
+```html
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Headings</title>
+    </head>
+    <body>
+      <h1>My Travel Blog</h1>
+      <h2>Exploring Ethiopia</h2>
+      <h3>Day 1: Addis Ababa</h3>
+      <h4>Morning Adventure</h4>
+      <h5>Breakfast at a Local Café</h5>
+      <h6>Notes & Memories</h6>
+    </body>
+  </html>
