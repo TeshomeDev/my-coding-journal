@@ -36,12 +36,28 @@
       **Syntax:** `<meta charset="UTF-8">`
       - (viewport): makes website mobile friendly and responsive.
       **Syntax:** `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
-      -(description): gives a brief summary of a webpage which is shown in search engine results.
+      - (description): gives a brief summary of a webpage which is shown in search engine results.
       **Syntax:** `<meta name="description" content="A brief summary of a webpage">`
     
   - `<link>` and `<script>` → connect external files.
 
-**Note:** all contents in head aren't visible on the web page but vital for browsers, search engines and other services.
+**Note:** all contents in head aren't visible on the web page but vital for browsers, search engines and other services as accessibility.
 
 `<body>`
 - Contains all content visible on the page.
+
+---
+
+# Headings 
+`<h1>...<h6>`
+- They are essential for:
+  - **SEO (Search Engine Optimization):**
+    Search engines use headings to understand page structure and rank content properly.
+
+  - **Accessibility:**
+    Screen readers use headings to help visually impaired users navigate your page easily.
+
+  - **Readability:**
+    Headings make pages easier for humans to scan and understand quickly.
+
+
